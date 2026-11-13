@@ -1,0 +1,7 @@
+/home/bofrost/dev/private/projects/embedded/rubberducky/build/Debug/CMakeFiles/rubberducky.dir
+/home/bofrost/dev/private/projects/embedded/rubberducky/build/Debug/CMakeFiles/edit_cache.dir
+/home/bofrost/dev/private/projects/embedded/rubberducky/build/Debug/CMakeFiles/rebuild_cache.dir
+/home/bofrost/dev/private/projects/embedded/rubberducky/build/Debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
+/home/bofrost/dev/private/projects/embedded/rubberducky/build/Debug/cmake/stm32cubemx/CMakeFiles/USBX.dir
+/home/bofrost/dev/private/projects/embedded/rubberducky/build/Debug/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+/home/bofrost/dev/private/projects/embedded/rubberducky/build/Debug/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir

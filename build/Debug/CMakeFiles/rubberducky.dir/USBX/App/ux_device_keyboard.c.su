@@ -1,0 +1,8 @@
+/home/bofrost/dev/private/projects/embedded/rubberducky/USBX/App/ux_device_keyboard.c:68:6:USBD_HID_Keyboard_Activate	16	static
+/home/bofrost/dev/private/projects/embedded/rubberducky/USBX/App/ux_device_keyboard.c:83:6:USBD_HID_Keyboard_Deactivate	16	static
+/home/bofrost/dev/private/projects/embedded/rubberducky/USBX/App/ux_device_keyboard.c:101:6:USBD_HID_Keyboard_SetReport	24	static
+/home/bofrost/dev/private/projects/embedded/rubberducky/USBX/App/ux_device_keyboard.c:122:6:USBD_HID_Keyboard_GetReport	24	static
+/home/bofrost/dev/private/projects/embedded/rubberducky/USBX/App/ux_device_keyboard.c:141:13:KEYBOARD_SendReport	64	static
+/home/bofrost/dev/private/projects/embedded/rubberducky/USBX/App/ux_device_keyboard.c:158:6:KEYBOARD_TypeA	16	static
+/home/bofrost/dev/private/projects/embedded/rubberducky/USBX/App/ux_device_keyboard.c:169:6:KEYBOARD_TypeChar	24	static
+/home/bofrost/dev/private/projects/embedded/rubberducky/USBX/App/ux_device_keyboard.c:180:6:KEYBOARD_TypeString	24	static

@@ -1,0 +1,5 @@
+/home/bofrost/dev/private/projects/embedded/rubberducky/USBX/App/app_usbx_device.c:74:6:MX_USBX_Device_Init	88	static
+/home/bofrost/dev/private/projects/embedded/rubberducky/USBX/App/app_usbx_device.c:175:12:_ux_utility_interrupt_disable	16	static
+/home/bofrost/dev/private/projects/embedded/rubberducky/USBX/App/app_usbx_device.c:192:6:_ux_utility_interrupt_restore	24	static
+/home/bofrost/dev/private/projects/embedded/rubberducky/USBX/App/app_usbx_device.c:206:7:_ux_utility_time_get	16	static
+/home/bofrost/dev/private/projects/embedded/rubberducky/USBX/App/app_usbx_device.c:224:13:USBD_ChangeFunction	24	static
